@@ -3,5 +3,5 @@
   :author "Evan Duncan"
   :license "MIT"
   :components ((:module "src"
-                :components ((:file "predicates"))))
+                :components ((:file "package"))))
   :description "Better predicate functions")
